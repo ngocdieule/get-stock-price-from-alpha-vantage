@@ -11,6 +11,7 @@ I created a module with a get_daily function that automates the retrieval of dai
 # Store API Keys from Alpha Vantage
 ALPHA_API_KEY="INSERT_YOUR_REAL_API_KEY_HERE"
 ```
+You can get your free API here: https://www.alphavantage.co/support/#api-key
 
 3. Install dependencies:
 Required packages include:
