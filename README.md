@@ -1,4 +1,4 @@
-# get-stock-price-from-alpha-vantage
+# Get daily stock price from Alpha Vantage
 I created a module with a get_daily function that automates the retrieval of daily stock price data from the Alpha Vantage API. My inspiration comes from the Applied Data Science Lab taught by World Quant University.
 
 ## Setup
